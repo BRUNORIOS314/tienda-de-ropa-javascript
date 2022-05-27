@@ -1,10 +1,15 @@
 let sendBtn = document.getElementById('button');
-let form = document.getElementById('form');
 
-form.addEventListener('submit', (e) => {
-    e.preventDefault();
-});
+sendBtn.addEventListener("click", ()=> {
+    swal({
+        title: "formulario enviado",
+        text: "Gracias por contactarnos",
+        icon: "success",
+        button: "Aceptar",
+      })})
 
+    form.addEventListener('submit', (e) => {
+    e.preventDefault()});
 
 sendBtn.addEventListener('click', (e) => {
     let name = document.getElementById('name');
@@ -30,4 +35,3 @@ sendBtn.addEventListener('click', (e) => {
     localStorage.setItem('message', message);
  });
 
- console.log(typeof(sendBtn));

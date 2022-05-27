@@ -1,22 +1,14 @@
 [
-    {"id": 1, "nombre":"remeraNegra", "precio": 1200, "talle":"s, m, l, xl", "imagen":"/images/remera-1.jpg"},
+    {"id": 1, "nombre":"pokemonAzul", "precio": 500},
   
-    {"id": 2, "nombre":"remeraVioleta", "precio": 1200, "talle":"s, m, l, xl"},       
+    {"id": 2, "nombre":"pokemonRojo", "precio": 650},       
   
-    {"id": 3, "nombre":"remeraAzul", "precio": 1200, "talle":"s, m, l, xl"},
+    {"id": 3, "nombre":"pokemonVerde", "precio": 800},
   
-    {"id": 4, "nombre":"remeraRoja", "precio": 1200, "talle":"s, m, l, xl"},
+    {"id": 4, "nombre":"pokemonPlata", "precio": 1200},
   
-    {"id": 5, "nombre":"remeraBlanca", "precio": 1200, "talle":"s, m, l, xl"},
+    {"id": 5, "nombre":"pokemonOro", "precio": 1400},
   
-    {"id": 6, "nombre":"zapatillaGris", "precio": 1200, "talle":"s, m, l, xl"},
+    {"id": 6, "nombre":"sonic", "precio": 400}
   
-    {"id": 7, "nombre":"zapatillaAzul", "precio": 1200, "talle":"s, m, l, xl"},
-  
-    {"id": 8, "nombre":"zapatillaBlanca", "precio": 1200, "talle":"s, m, l, xl"},
-  
-    {"id": 9, "nombre":"zapatillaNegra", "precio": 1200, "talle":"s, m, l, xl"},
-  
-    {"id": 10, "nombre":"zapatillaCeleste", "precio": 1200, "talle":"s, m, l, xl"}
-  
-    ]
+ ]
